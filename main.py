@@ -13,7 +13,7 @@ from risk.marginal_var import historical_marginal_var
 from risk.expected_shortfall import historical_expected_shortfall
 from risk.historical_var import historical_var
 from risk.parametric_var import parametric_var, parametric_component_var
-from risk.mote_carlo_simulation import simulate_portfolio_pnl
+from risk.monte_carlo_simulation import simulate_portfolio_pnl
 from risk.monte_carlo_var import monte_carlo_var
 from risk.monte_carlo_es import monte_carlo_expected_shortfall
 from risk.risk_report import generate_risk_report
